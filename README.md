@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I’m a passionate software engineer, researcher, and musician, driven by curiosity and creativity.
 
-## 👨‍💻 Lead Software Engineer
-I lead the RuFaS development team at Cornell University, overseeing project development, gathering requirements from stakeholders, and guiding developers. My expertise spans full-stack development, system architecture, and integrating ML solutions into complex systems.
+## 👨‍💻 Director of Software Engineering
+I lead the [RuFaS](https://github.com/RuminantFarmSystems/RuFaS) development team at Cornell University and UW-Madison, overseeing project development, gathering requirements from stakeholders, and guiding developers. My expertise spans full-stack development, system architecture, and integrating ML solutions into complex systems.
 
 Previously, I worked at Meta as a Full Stack Software Engineer, contributing to scalable product design and managing technical debt.
 
@@ -20,6 +20,9 @@ I'm a musician with a keen interest in integrating music with technology. As par
 My interests include astrophysics, aviation, wood art, music, and photography. I’m always exploring new technologies and ideas, blending them with my work.
 
 ## 📫 How to Reach Me
+See [My Website](https://www.pooyahekmati.com/).
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooya-hekmati/) 
 [![Google Scholar](https://img.shields.io/badge/%F0%9F%8E%93Scholar-white?color=white)](https://scholar.google.com/citations?user=W-w3lrMAAAAJ&hl=en)
 
